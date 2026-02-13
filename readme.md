@@ -26,6 +26,12 @@ Aplicação web do clássico Jogo da Velha construída com HTML, CSS e JavaScrip
 - Uso de arrays, métodos `some()` e `every()`  
 - Controle de estado da aplicação  
 
+## Acesso ao projeto
+
+O projeto pode ser acessado pelo link abaixo:
+
+[Jogo da Velha](https://pereiraaline.github.io/JogoVelha/)
+
 ## Objetivo do Projeto
 
 Aplicar conceitos fundamentais de desenvolvimento web em um projeto funcional, reforçando organização de código, lógica estruturada e boas práticas básicas de JavaScript.
